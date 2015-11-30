@@ -1,0 +1,11 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "",
+  "author": "jaye",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^1.3.7",
+    "socket.io-client": "^1.3.7"
+  }
+}
